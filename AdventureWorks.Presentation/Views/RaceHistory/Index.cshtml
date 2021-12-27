@@ -1,0 +1,57 @@
+﻿@model IEnumerable<AdventureWorks.Presentation.ViewModels.RaceHistoryViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<p>
+    <a asp-action="Create" class="btn btn-primary"> New Race History</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CompetitorName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TrackDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateTrack)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TimeSpent)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CompetitorName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TrackDescription)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateTrack)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TimeSpent)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-light" })
+                </td>
+            </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,17 @@
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\bin\Debug\net5.0\AdventureWorks.Data.deps.json
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\bin\Debug\net5.0\AdventureWorks.Data.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\bin\Debug\net5.0\ref\AdventureWorks.Data.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\bin\Debug\net5.0\AdventureWorks.Data.pdb
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\bin\Debug\net5.0\AdventureWorks.Domain.Core.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\bin\Debug\net5.0\AdventureWorks.Domain.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\bin\Debug\net5.0\AdventureWorks.Domain.Core.pdb
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\bin\Debug\net5.0\AdventureWorks.Domain.pdb
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\obj\Debug\net5.0\AdventureWorks.Data.csproj.AssemblyReference.cache
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\obj\Debug\net5.0\AdventureWorks.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\obj\Debug\net5.0\AdventureWorks.Data.AssemblyInfoInputs.cache
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\obj\Debug\net5.0\AdventureWorks.Data.AssemblyInfo.cs
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\obj\Debug\net5.0\AdventureWorks.Data.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\obj\Debug\net5.0\AdventureWorks.Data.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\obj\Debug\net5.0\ref\AdventureWorks.Data.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\obj\Debug\net5.0\AdventureWorks.Data.pdb
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Data\obj\Debug\net5.0\AdventureWorks.Data.csproj.CopyComplete

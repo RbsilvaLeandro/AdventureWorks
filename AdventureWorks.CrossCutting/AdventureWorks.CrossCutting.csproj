@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.3.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AdventureWorks.Application\AdventureWorks.Application.csproj" />
+    <ProjectReference Include="..\AdventureWorks.Data\AdventureWorks.Data.csproj" />
+    <ProjectReference Include="..\AdventureWorks.Domain.Services\AdventureWorks.Domain.Services.csproj" />
+    <ProjectReference Include="..\AdventureWorks.Domain\AdventureWorks.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

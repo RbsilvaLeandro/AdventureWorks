@@ -1,0 +1,17 @@
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\bin\Debug\net5.0\AdventureWorks.Domain.Services.deps.json
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\bin\Debug\net5.0\AdventureWorks.Domain.Services.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\bin\Debug\net5.0\ref\AdventureWorks.Domain.Services.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\bin\Debug\net5.0\AdventureWorks.Domain.Services.pdb
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\bin\Debug\net5.0\AdventureWorks.Domain.Core.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\bin\Debug\net5.0\AdventureWorks.Domain.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\bin\Debug\net5.0\AdventureWorks.Domain.Core.pdb
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\bin\Debug\net5.0\AdventureWorks.Domain.pdb
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\obj\Debug\net5.0\AdventureWorks.Domain.Services.csproj.AssemblyReference.cache
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\obj\Debug\net5.0\AdventureWorks.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\obj\Debug\net5.0\AdventureWorks.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\obj\Debug\net5.0\AdventureWorks.Domain.Services.AssemblyInfo.cs
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\obj\Debug\net5.0\AdventureWorks.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\obj\Debug\net5.0\AdventureWorks.Domain.Services.csproj.CopyComplete
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\obj\Debug\net5.0\AdventureWorks.Domain.Services.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\obj\Debug\net5.0\ref\AdventureWorks.Domain.Services.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Domain.Services\obj\Debug\net5.0\AdventureWorks.Domain.Services.pdb

@@ -1,0 +1,17 @@
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\bin\Debug\net5.0\AdventureWorks.Application.deps.json
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\bin\Debug\net5.0\AdventureWorks.Application.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\bin\Debug\net5.0\ref\AdventureWorks.Application.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\bin\Debug\net5.0\AdventureWorks.Application.pdb
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\bin\Debug\net5.0\AdventureWorks.Domain.Core.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\bin\Debug\net5.0\AdventureWorks.Domain.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\bin\Debug\net5.0\AdventureWorks.Domain.Core.pdb
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\bin\Debug\net5.0\AdventureWorks.Domain.pdb
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\obj\Debug\net5.0\AdventureWorks.Application.csproj.AssemblyReference.cache
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\obj\Debug\net5.0\AdventureWorks.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\obj\Debug\net5.0\AdventureWorks.Application.AssemblyInfoInputs.cache
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\obj\Debug\net5.0\AdventureWorks.Application.AssemblyInfo.cs
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\obj\Debug\net5.0\AdventureWorks.Application.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\obj\Debug\net5.0\AdventureWorks.Application.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\obj\Debug\net5.0\ref\AdventureWorks.Application.dll
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\obj\Debug\net5.0\AdventureWorks.Application.pdb
+C:\Users\Leandro\Projetos\AdventureWorks\AdventureWorks.Application\obj\Debug\net5.0\AdventureWorks.Application.csproj.CopyComplete

@@ -1,0 +1,38 @@
+-- Database: AdventureWorks
+
+-- DROP DATABASE IF EXISTS "AdventureWorks";
+
+CREATE DATABASE "AdventureWorks"
+    WITH 
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LC_COLLATE = 'Portuguese_Brazil.1252'
+    LC_CTYPE = 'Portuguese_Brazil.1252'
+    TABLESPACE = pg_default
+    CONNECTION LIMIT = -1;
+	
+
+CREATE TABLE Competitors (
+    Id serial PRIMARY KEY,
+	Name VARCHAR(150) NOT NULL,
+	Gender CHAR(1) NOT NULL,
+	BodyTemperature DECIMAL NOT NULL,
+	Weight DECIMAL NOT NULL,	
+	Height DECIMAL NOT NULL
+);
+
+CREATE TABLE RaceTrack (
+    Id SERIAL PRIMARY KEY ,
+	Description VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE RaceHistory (
+    Id SERIAL PRIMARY KEY ,
+	CompetitorId SERIAL NOT NULL,
+	RaceTrackId SERIAL NOT NULL,
+	DateTrack Timestamp NOT NULL,
+	TimeSpent DECIMAL NOT NULL,
+	FOREIGN KEY(CompetitorId) REFERENCES Competitors(Id),
+	FOREIGN KEY(RaceTrackId) REFERENCES RaceTrack(Id)
+);
+	

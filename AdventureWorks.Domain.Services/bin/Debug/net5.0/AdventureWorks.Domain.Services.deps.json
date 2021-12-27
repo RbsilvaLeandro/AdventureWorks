@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AdventureWorks.Domain.Services/1.0.0": {
+        "dependencies": {
+          "AdventureWorks.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "AdventureWorks.Domain.Services.dll": {}
+        }
+      },
+      "AdventureWorks.Domain/1.0.0": {
+        "runtime": {
+          "AdventureWorks.Domain.dll": {}
+        }
+      },
+      "AdventureWorks.Domain.Core/1.0.0": {
+        "dependencies": {
+          "AdventureWorks.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AdventureWorks.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdventureWorks.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdventureWorks.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdventureWorks.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
