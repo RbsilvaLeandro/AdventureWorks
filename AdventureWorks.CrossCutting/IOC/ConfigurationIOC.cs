@@ -7,11 +7,6 @@ using AdventureWorks.Domain.Core.Interfaces;
 using AdventureWorks.Domain.Core.Services;
 using AdventureWorks.Domain.Services;
 using Autofac;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AdventureWorks.CrossCutting.IOC
 {

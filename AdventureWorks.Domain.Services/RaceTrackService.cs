@@ -1,8 +1,6 @@
 ﻿using AdventureWorks.Domain.Core.Interfaces;
 using AdventureWorks.Domain.Core.Services;
 using AdventureWorks.Domain.Entities;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace AdventureWorks.Domain.Services
 {
@@ -13,11 +11,6 @@ namespace AdventureWorks.Domain.Services
             : base(repositoryRaceTrack)
         {
             _repositoryRaceTrack = repositoryRaceTrack;
-        }
-
-        //public Task<IEnumerable<RaceTrack>> GetAllUnusedTracksAsync()
-        //{
-        //    return _repositoryRaceTrack.GetAllUnusedTracksAsync();
-        //}
+        }       
     }
 }
